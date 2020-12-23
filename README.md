@@ -1,5 +1,6 @@
-# BIRTI2101B-Data_Science_in_bioscience_engineering-Groupe6
-## Prediction of coding genes with Deep Learning on yeast genome
+# Prediction of coding genes with Deep Learning on yeast genome
+
+## Course BIRTI2101B - Data Science in bioscience engineering - Groupe6
 
 ### General context
 This repository is about the project we have been carrying out with the "Groupe 6" during the course "BIRTI2101B - Data Science in bioscience engineering" 

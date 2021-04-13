@@ -2,13 +2,29 @@
 
 ## Course BIRTI2101B - Data Science in bioscience engineering - Groupe6
 
-### General context
-This repository is about the project we have been carrying out with the "Groupe 6" during the course "BIRTI2101B - Data Science in bioscience engineering" 
-at the UCLouvain during the first semster of master 1.
+### Abstract
 
-### The project
-During this project we have been trying to implement a Deel Learning model with keras and tensorflow. 
-The aim was to be abble to predict if a given gene in the S. Cerevicae's genome was a coding gene or not. 
+This report is the result of project work in the course of Data Science in Bioscience
+Engineering. The general theme of this year’s projects was: Deep Learning
+in Bioscience Engineering. It was decided, by the group of student, to focus on the
+prediction of coding DNA sequences, thanks to a deep learning method. The report
+will thus try to address the following questions: Is Deep Learning a relevant method
+to predict if a DNA sequence will code for a protein of not?
+
+This report first presents a general overview of DNA sequencing, its history
+methodology and some applications. Then, to understand how deep learning could
+help, a small presentation on theoretical aspects is included. Thanks to the previously
+cited knowledge, it will be possible to understand how to implement a deep
+learning algorithm. Finally, in the last section, the results given by the model are
+discussed. Different methods are compared, and the optimal parameter to solve this
+problem are also given. 
+
+### Report 
+
+The detailed report for this project can be found in the following link:
+https://uclouvain-my.sharepoint.com/:b:/g/personal/tom_kenda_student_uclouvain_be/Ef_Xvw-hjbdIkMrlTJV8CHEBgA-xkxsiKJ1Tbreh3Bujxw?e=DNRLfn
+
+Check it out if you want to see the conclusion of our project.
 
 ### About this repository
 In this repository you will find all the document that that we have created during this project. They are the following :
